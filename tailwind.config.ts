@@ -24,6 +24,15 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				prime: {
+					blue: '#00A8E1',
+					dark: '#0F171E',
+					light: '#1A242F',
+					gold: '#F5C518',
+					text: '#FFFFFF',
+					muted: '#8197A4',
+					hover: '#19252E'
+				},
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
